@@ -39,6 +39,7 @@ Install dependencies:
 
 * meson (build-time dependency)
 * wayland
+* wayland-protocols
 * pango
 * cairo
 * systemd, elogind or [basu] (for the sd-bus library)
