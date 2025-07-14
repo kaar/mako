@@ -59,18 +59,11 @@ build/mako
   <img src="https://github.com/user-attachments/assets/4b32fef6-61d9-4ad1-8820-d4e5a245a76c" width="512" alt="mako">
 </p>
 
-## Usage
 
-### Sway
-If you are using Sway, you can add the following to your `~/.config/sway/config`:
+## Config
+You can configure mako by creating a `~/.config/mako/config` file.
 
-```ini
-exec mako
-```
-
-### Config
-You can configure mako by creating a `~/.config/mako/config` file. Here is an example:
-
+Example:
 ```ini
 sort=-time
 layer=overlay
