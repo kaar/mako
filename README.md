@@ -59,6 +59,15 @@ build/mako
   <img src="https://github.com/user-attachments/assets/4b32fef6-61d9-4ad1-8820-d4e5a245a76c" width="512" alt="mako">
 </p>
 
+## Usage
+
+### Sway
+If you are using Sway, you can add the following to your `~/.config/sway/config`:
+
+```ini
+exec mako
+```
+
 ## I have a question!
 
 See the [faq section in the wiki](https://github.com/emersion/mako/wiki/Frequently-asked-questions).
